@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#input-el {
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 4px;
+  box-sizing: border-box;
+  border-radius: 0;
+  border: 1px solid #5F9431;
+  min-height: 40px;
+}
+
+#input-btn {
+  border-radius: 0;
+  background-color: #5F9431;
+  border: none;
+  padding: 10px 20px;
+  color: aliceblue;
+  font-weight: bold;
+}
