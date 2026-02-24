@@ -24,6 +24,8 @@ li a {
   border: 1px solid #5F9431;
   font-weight: bold;
   padding: 10px 20px;
+  background-color: #5F9431;
+  color: aliceblue;
 }
 
 #delete-btn {
@@ -40,8 +42,7 @@ li a {
   border: 1px solid #5F9431;
   min-height: 40px;
 }
-
+/*
 #input-btn {
-  background-color: #5F9431;
-  color: aliceblue;
-}
+
+} */
